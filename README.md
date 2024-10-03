@@ -1,4 +1,4 @@
-# Technical Assessment of PT Tunas Group Tbk System Engineer via MSBU
+# Technical Assessment of System Engineer at PT Tunas Group Tbk via MSBU
 Natanael Jansudin Siregar
 
 ## Technical Assessment I
