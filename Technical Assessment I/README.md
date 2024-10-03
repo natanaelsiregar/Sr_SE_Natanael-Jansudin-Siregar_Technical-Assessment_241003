@@ -24,7 +24,7 @@ This Python project provides a class to generate an arithmetic sequence and disp
 * generate_sequence: Menghasilkan deret aritmatika berdasarkan jumlah N yang dimasukkan oleh pengguna.
 * sequence_to_string: Menghasilkan deret aritmatika dan mengembalikannya sebagai string tanpa spasi.
 
-Fungsi main:
+### Fungsi main:
 * Mengambil input dari pengguna untuk jumlah suku 𝑁
 * Memastikan bahwa input adalah bilangan bulat positif.
 * Membuat instance dari kelas ArithmeticSequence dan mendapatkan deret sebagai string.
