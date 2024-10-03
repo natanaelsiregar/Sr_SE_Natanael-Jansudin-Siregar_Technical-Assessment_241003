@@ -59,7 +59,7 @@ Output: 2,5,8,11,14
 ```
 
 ### Example
-To generate an arithmetic sequence with 5 terms (starting from 2 with a difference of 3):
+To generate an arithmetic sequence with 7 terms
 ```bash
 Input: 7
 Output: 2,5,8,11,14,17,20 
