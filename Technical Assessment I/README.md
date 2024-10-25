@@ -35,17 +35,16 @@ This Python project provides a class to generate an arithmetic sequence and disp
 ### 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/natanaelsiregar/Sr_SE_Natanael-Jansudin-Siregar_Technical-Assessment_241003.git
-   cd /Technical Assessment I
    ```
 
 ### Navigate into the project directory:
 ```bash
-cd arithmetic-sequence-generator
+cd /Technical Assessment I
 ```
 
 ### Run the program:
 ```bash
-python arithmetic_sequence.py
+python ArithmeticSequence.py
 ```
 
 ### Input the number of terms for the arithmetic sequence when prompted:
